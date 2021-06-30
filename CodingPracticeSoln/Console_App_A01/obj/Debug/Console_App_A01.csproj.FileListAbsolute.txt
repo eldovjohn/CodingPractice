@@ -1,0 +1,7 @@
+F:\Eldho\VisualStudio2k19_Projects\Source\Repos\CodingPractice_CS\CodingPracticeSoln\Console_App_A01\bin\Debug\Console_App_A01.exe.config
+F:\Eldho\VisualStudio2k19_Projects\Source\Repos\CodingPractice_CS\CodingPracticeSoln\Console_App_A01\bin\Debug\Console_App_A01.exe
+F:\Eldho\VisualStudio2k19_Projects\Source\Repos\CodingPractice_CS\CodingPracticeSoln\Console_App_A01\bin\Debug\Console_App_A01.pdb
+F:\Eldho\VisualStudio2k19_Projects\Source\Repos\CodingPractice_CS\CodingPracticeSoln\Console_App_A01\obj\Debug\Console_App_A01.csprojAssemblyReference.cache
+F:\Eldho\VisualStudio2k19_Projects\Source\Repos\CodingPractice_CS\CodingPracticeSoln\Console_App_A01\obj\Debug\Console_App_A01.csproj.CoreCompileInputs.cache
+F:\Eldho\VisualStudio2k19_Projects\Source\Repos\CodingPractice_CS\CodingPracticeSoln\Console_App_A01\obj\Debug\Console_App_A01.exe
+F:\Eldho\VisualStudio2k19_Projects\Source\Repos\CodingPractice_CS\CodingPracticeSoln\Console_App_A01\obj\Debug\Console_App_A01.pdb
